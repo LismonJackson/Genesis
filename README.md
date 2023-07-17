@@ -2,6 +2,14 @@
 
 Genesis is a particle life simulator built using the raylib framework. It provides an immersive experience of observing and interacting with dynamic particle systems. With Genesis, you can explore the captivating world of particle behavior, experiment with various simulation parameters, and witness the birth, evolution, and interplay of particles.
 
+
+
+
+## Download Particle Life Executable [![Download Particle Life](https://img.shields.io/badge/Download-Particle%20Life-blue.svg)](https://drive.google.com/uc?id=1JlG8U81TSgLer0_XbuBAeCfA9yrNkPCB&export=download)
+
+A standalone executable file for Particle Life, a captivating simulation that brings particles to life!
+You can download the executable file by clicking [here](https://drive.google.com/uc?id=1JlG8U81TSgLer0_XbuBAeCfA9yrNkPCB&export=download).
+
 ## Features
 
 - Simulate multiple particle groups with of colors.
